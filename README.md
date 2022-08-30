@@ -2,7 +2,7 @@
 
 ## I'm a Developer & Nerd & Hardstyle Addicted
 
-- 📑 Working on [Zen]
+- 📑 Working on Zen
 - 🌱 My projects are usually a big mess
 - 👨‍🎓 Currently in 10th grade. 
 - ⚡ Favorite Quote: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.".
