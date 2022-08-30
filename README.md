@@ -1,6 +1,6 @@
 ### Hi there, I'm [Freark](https://frearkb.nl) 👋 
 
-## I'm a Developer, Nerd, Student and Tech Enthousiast!!
+## I'm a Developer & Nerd & Hardstyle Addicted
 
 - 📑 Working on [Zen]
 - 🌱 My projects are usually a big mess
